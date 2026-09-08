@@ -1,0 +1,65 @@
+product_id,product_name,category,price
+1,Wireless Mouse,Electronics,106.4
+2,Mechanical Keyboard,Electronics,68.88
+3,USB-C Cable,Electronics,42.33
+4,Bluetooth Speaker,Electronics,127.32
+5,Laptop Stand,Electronics,206.28
+6,Webcam HD,Electronics,46.21
+7,Noise Cancelling Headphones,Electronics,124.63
+8,Power Bank 10000mAh,Electronics,19.38
+9,Coffee Maker,Home & Kitchen,168.7
+10,Non-stick Frying Pan,,61.69
+11,Blender 600W,Home & Kitchen,96.42
+12,Toaster 2-Slice,,123.38
+13,Air Fryer,Home & Kitchen,7.89
+14,Kitchen Knife Set,Home & Kitchen,9.19
+15,Electric Kettle,Home & Kitchen,227.88
+16,Cutting Board,Home & Kitchen,52.01
+17,Cotton T-Shirt,Clothing,102.23
+18,Denim Jacket,Clothing,247.6
+19,Running Shoes,Clothing,€165.16
+20,Wool Sweater,Clothing,€97.91
+21,Rain Jacket,Clothing,46.98
+22,Leather Belt,Clothing,143.62
+23,Baseball Cap,Clothing,15.42
+24,Winter Scarf,Clothing,121.49
+25,Yoga Mat,,225.32
+26,Dumbbell Set 10kg,Sports,82.04
+27,Running Shorts,Sports,179.6
+28,Tennis Racket,Sports,63.91
+29,Resistance Bands,Sports,86.26
+30,Water Bottle 1L,Sports,€182.41
+31,Cycling Gloves,Sports,112.08
+32,Jump Rope,Sports,€238.93
+33,Data Analysis Handbook,Books,71.96
+34,French Cooking 101,Books,235.57
+35,Mystery Novel Vol.1,Books,25.99
+36,History of Europe,Books,25.09
+37,Learn SQL Fast,Books,€186.21
+38,Productivity Hacks,Books,80.52
+39,Sci-Fi Anthology,Books,50.9
+40,Kids Picture Book,Books,11.42
+41,Building Blocks Set,Toys,84.48
+42,Remote Control Car,Toys,25.74
+43,Puzzle 1000pcs,Toys,145.12
+44,Plush Bear,Toys,78.77
+45,Board Game Classic,Toys,108.16
+46,Action Figure,Toys,65.4
+47,Toy Drone Mini,Toys,31.2
+48,Art & Craft Kit,Toys,156.94
+49,Moisturizing Cream,Beauty,204.78
+50,Shampoo 250ml,Beauty,83.55
+51,Lip Balm Set,Beauty,241.31
+52,Perfume 50ml,Beauty,125.29
+53,Electric Toothbrush,Beauty,205.03
+54,Hair Dryer,Beauty,150.09
+55,Nail Polish Set,Beauty,238.48
+56,Sunscreen SPF50,Beauty,76.37
+57,Notebook A5,Office,105.23
+58,Ballpoint Pen Pack,Office,€166.36
+59,Desk Organizer,Office,247.71
+60,Stapler,Office,230.49
+61,Sticky Notes,Office,93.07
+62,Whiteboard Marker,Office,25.81
+63,Ergonomic Chair Cushion,Office,163.5
+64,Printer Paper Ream,Office,102.9
